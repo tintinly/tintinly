@@ -1,4 +1,4 @@
-👋我的名字叫丁丁(tintin)!
+Hi there, I'm tintinly 👋
 
 <!--
 **tintinly/tintinly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
