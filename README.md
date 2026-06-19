@@ -1,13 +1,14 @@
 ## >_ Hi there, I'm tintinly 👋
-<!-- 动态打字效果 -->
+
 <div align="center">
-		<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=CE49F7&center=true&vCenter=true&width=435&separator=%3C&lines=Backend+developer.%3CSystem.out.println(%22Hello+World!%22);" alt="Typing SVG" />
+		<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CE49F7&center=true&vCenter=true&width=435&separator=%3C&lines=Backend+developer.%3CSystem.out.println(%22Hello+World!%22);" alt="Typing SVG" />
 </div>
+
 ---
 
 ### About Me
 
-总有一些事情能让我停止焦虑，在绿道上步履不停一整天不累，在球场上奔跑扮演曼彻斯特的德布劳内，直到下雨天点起一盏灯写一些代码，晚上也不一定睡得着，如果顺利，梦里希望是在王菲的天空中徜徉。我们总在接收大量的无用信息，不要忘记找到输出自我的渠道。
+总有一些事情能让我停止焦虑，在绿道上步履不停一整天不累，在球场上奔跑扮演曼彻斯特的德布劳内，直到下雨天点起一盏灯写一些无所谓的代码，但晚上不一定睡得着，如果顺利，梦里希望是在王菲的天空中徜徉。我们总在接收大量的无用信息，不要忘记找到能够输出自我的渠道。
 
 - [主页](https://tintinly.top/)
 - [博客](https://blog.tintinly.top/)
@@ -50,11 +51,12 @@
 <div>
     <a href="https://github.com/tintinly" target="_blank"><img src="https://img.shields.io/badge/github-24292e?&style=for-the-badge&logo=github&logoColor=white" alt=github /></a>
     <a href="https://space.bilibili.com/372204786" target="_blank"><img src="https://img.shields.io/badge/bilibili-fe70a0?&style=for-the-badge&logo=bilibili&logoColor=white" alt=youtube /></a>
-    <a href="https://www.facebook.com/tintinliuye" target="_blank"><img src="https://img.shields.io/badge/facebook-2889e7?&style=for-the-badge&logo=facebook&logoColor=white" alt=facebook /></a>
-    <a href="https://instagram.com/tintinliuye" target="_blank"><img src="https://img.shields.io/badge/instagram-D300C5?&style=for-the-badge&logo=instagram&logoColor=white" alt=instagram /></a>
+    <!--<a href="https://www.facebook.com/tintinliuye" target="_blank"><img src="https://img.shields.io/badge/facebook-2889e7?&style=for-the-badge&logo=facebook&logoColor=white" alt=facebook /></a>-->
+    <!--<a href="https://instagram.com/tintinliuye" target="_blank"><img src="https://img.shields.io/badge/instagram-D300C5?&style=for-the-badge&logo=instagram&logoColor=white" alt=instagram /></a>-->
     <a href="https://twitter.com/TintinMrLiu" target="_blank"> <img src="https://img.shields.io/badge/twitter-000000?&style=for-the-badge&logo=x&logoColor=white" alt=twitter /></a>
     <a href="https://www.youtube.com/@丁丁-i2b" target="_blank"><img src="https://img.shields.io/badge/youtube-FF0033?&style=for-the-badge&logo=youtube&logoColor=white" alt=youtube /></a>
 </div>
+
 
 ### Github Stats
 
