@@ -25,13 +25,14 @@
 ### Backend
 
 <div align="left">  
-<a href="https://github.com/" target="_blank"><code><img width="32" alt="java" src="https://api.iconify.design/logos/java.svg"></code></a> 
-<a href="https://www.java.com/" target="_blank"><code><img width="32" alt="spring" src="https://api.iconify.design/devicon/spring.svg"></code></a> 
+<a href="https://github.com/" target="_blank"><code><img width="26" alt="java" src="https://api.iconify.design/logos/java.svg"></code></a> 
+<a href="https://www.java.com/" target="_blank"><code><img width="26" alt="spring" src="https://api.iconify.design/devicon/spring.svg"></code></a> 
 <a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><code><img width="32" alt="vue" src="https://api.iconify.design/material-icon-theme/vue.svg"></code></a> 
-<a href="https://vuejs.org/" target="_blank"><code><img width="32" alt="mysql" src="https://api.iconify.design/logos/mysql.svg"></code></a> 
+<a href="https://vuejs.org/" target="_blank"><code><img width="40" alt="mysql" src="https://api.iconify.design/logos/mysql.svg"></code></a> 
 <a href="https://www.mysql.com/" target="_blank"><code><img width="32" alt="redis" src="https://api.iconify.design/logos/redis.svg"></code></a> 
 <a href="https://redis.io/" target="_blank"><code><img width="32" alt="git" src="https://api.iconify.design/material-icon-theme/git.svg"></code></a> 
 </div>
+
 
 ### DevOps 
 
