@@ -1,12 +1,11 @@
-<div align="center">
-		<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CE49F7&center=true&vCenter=true&width=435&separator=%3C&lines=Backend+developer.%3CSystem.out.println(%22Hello+World!%22);" alt="Typing SVG" />
-</div>
-
 ## >_ Hi there, I'm tintinly 👋
 
 ### About Me
 
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="260" align="right" alt="">
+<div align="right" >
+	<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTFteWIzYXl0d2xncGkzdjdrMGI1a25ndTY1dTI0OGg4NjFmdXZjZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Oyi24HDyJ71AOJZPCT/giphy.gif" width="260" alt="">
+	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CE49F7&center=true&vCenter=true&width=435&separator=%3C&lines=Backend+developer.%3CSystem.out.println(%22Hello+World!%22);" width="260" alt="Typing SVG" />
+</div>
 
 我们总在接收大量的无用信息，不要忘记找到能够输出自我的渠道。
 
