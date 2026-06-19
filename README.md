@@ -6,7 +6,10 @@
   </a>
 </h1>
 <div align="center">
-       <img src='https://readme-typing-svg.demolab.com/?lines=Backend&nbspdeveloper;System.out.println("Hello World!");'>
+		<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CE49F7&center=true&vCenter=true&width=435&separator=%3C&lines=Backend+developer.%3CSystem.out.println(%22Hello+World!%22);" alt="Typing SVG" />
+</div>
+<div align="center">
+		<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=CE49F7&center=true&vCenter=true&width=435&separator=%3C&lines=Backend+developer.%3CSystem.out.println(%22Hello+World!%22);" alt="Typing SVG" />
 </div>
 
 ### About Me
