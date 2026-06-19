@@ -6,6 +6,8 @@
 
 ### About Me
 
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="260" align="right" alt="">
+
 总有一些事情能让我停止焦虑，在绿道上步履不停一整天不累，在球场上奔跑扮演曼彻斯特的德布劳内，直到下雨天点起一盏灯写一些无所谓的代码，但晚上不一定睡得着，如果顺利，梦里希望是在王菲的天空中徜徉。我们总在接收大量的无用信息，不要忘记找到能够输出自我的渠道。
 
 - [主页](https://tintinly.top/)
