@@ -1,6 +1,8 @@
 ## >_ Hi there, I'm tintinly 👋
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Backend developer;System.out.println("Hello World!");)
+<div align="center">
+       <img src='https://readme-typing-svg.demolab.com/?lines=Backend developer;System.out.println("Hello World!");'>
+</div>
 
 ### About Me
 
