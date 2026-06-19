@@ -1,21 +1,22 @@
 ## >_ Hi there, I'm tintinly 👋
 
-### About Me
+<div align="center">
+		<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=C747F7&center=true&vCenter=true&width=435&height=30&separator=%3C&lines=A+full-time+backend+developer.%3CSystem.out.println(Hello+World!);" alt="Typing SVG" /></a>
+</div>
 
+#### About Me
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTFteWIzYXl0d2xncGkzdjdrMGI1a25ndTY1dTI0OGg4NjFmdXZjZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Oyi24HDyJ71AOJZPCT/giphy.gif" width="260" alt="" align="right" >
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CE49F7&center=true&vCenter=true&width=435&separator=%3C&lines=Backend+developer.%3CSystem.out.println(%22Hello+World!%22);" width="260" alt="Typing SVG" align="right" />
-
-
-我们总在接收大量的无用信息，不要忘记找到能够输出自我的渠道。
+纷繁世界，为内心的表达留一扇敞开的窗。
 
 <div>
     <table>
-        <tbody><tr align="center"><td ><a href="https://tintinly.top/">主页</a></td><td><a href="https://blog.tintinly.top/">博客</a></td><td><a href="https://notes.tintinly.top/">笔记</a></td></tr></tbody>
+        <tbody><tr align="center"><td ><a href="https://tintinly.top/">主&nbsp&nbsp页</a></td><td><a href="https://blog.tintinly.top/">博&nbsp&nbsp客</a></td><td><a href="https://notes.tintinly.top/">笔&nbsp&nbsp记</a></td></tr></tbody>
     </table>
 </div>
 
-### Frontend 
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWNibnJhaGI5Z3FhYzE4bHUwazc3cWpmbm0xM2o3d2p5cWxvdDQweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/p3jODc8SCg6H5VwSdJ/giphy.gif" width="260" align="right" alt="">
+
+#### Frontend 
 
 <div align="left"> 
 <a href="https://www.w3schools.com/css/" target="_blank"><code><img width="32" alt="css" src="https://api.iconify.design/material-icon-theme/css.svg"></code></a>
@@ -26,7 +27,7 @@
 <a href="https://nodejs.org/" target="_blank"><code><img width="32" alt="nodejs" src="https://api.iconify.design/material-icon-theme/nodejs.svg"></code></a> 
 </div>
 
-### Backend
+#### Backend
 
 <div align="left">  
 <a href="https://github.com/" target="_blank"><code><img width="26" alt="java" src="https://api.iconify.design/logos/java.svg"></code></a> 
@@ -37,8 +38,7 @@
 <a href="https://redis.io/" target="_blank"><code><img width="32" alt="git" src="https://api.iconify.design/material-icon-theme/git.svg"></code></a> 
 </div>
 
-
-### DevOps 
+#### DevOps 
 
 <div align="left"> 
 <a href="https://www.linux.org/" target="_blank"><code><img width="32" alt="linux" src="https://api.iconify.design/logos/linux-tux.svg"></code></a> 
@@ -47,7 +47,7 @@
 <a href="https://www.nginx.com/" target="_blank"><code><img width="32" alt="nginx" src="https://api.iconify.design/material-icon-theme/nginx.svg"></code></a> 
 </div>
 
-### Connect with me
+#### Connect with me
 
 <div>
     <a href="https://github.com/tintinly" target="_blank"><img src="https://img.shields.io/badge/github-24292e?&style=for-the-badge&logo=github&logoColor=white" alt=github style="margin: 2px"/></a>
@@ -58,12 +58,11 @@
     <a href="https://www.youtube.com/@丁丁-i2b" target="_blank"><img src="https://img.shields.io/badge/youtube-FF0033?&style=for-the-badge&logo=youtube&logoColor=white" alt=youtube style="margin: 2px"/></a>
 </div>
 
-
-### Github Stats
+#### Github Stats
 
 <div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=tintinly&theme=github" align="center" /></div> 
 
-### Recent Posts
+#### Recent Posts
 
 <!-- BLOG-POST-LIST:START -->  
 If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
