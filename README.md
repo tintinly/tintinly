@@ -1,8 +1,12 @@
 ## >_ Hi there, I'm tintinly 👋
 
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Backend developer;System.out.println("Hello World!");)
+
 <div align="center">
        <img src='https://readme-typing-svg.demolab.com/?lines=Backend developer;System.out.println("Hello World!");'>
 </div>
+
+<img src='https://readme-typing-svg.demolab.com/?lines=Backend developer;System.out.println("Hello World!");'>
 
 ### About Me
 
@@ -42,30 +46,28 @@
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
 </div>
-</td></tr></table>
-
+</td></tr></table>    
 ### Connect with me  
 
-<div align="center">
-    <a href="https://github.com/tintinly" target="_blank">
-    	<img src="https://img.shields.io/badge/github-24292e?&style=for-the-badge&logo=github&logoColor=white" alt=github style="margin-bottom: 5px;" />
-    </a>
-    <a href="https://space.bilibili.com/372204786" target="_blank">
-    	<img src="https://img.shields.io/badge/bilibili-fe70a0?&style=for-the-badge&logo=bilibili&logoColor=white" alt=youtube style="margin-bottom: 5px;" />
-    </a>
-    <a href="https://www.facebook.com/tintinliuye" target="_blank">
-    	<img src="https://img.shields.io/badge/facebook-2889e7?&style=for-the-badge&logo=facebook&logoColor=white" alt=facebook style="margin-bottom: 5px;" />
-    </a>
-    <a href="https://instagram.com/tintinliuye" target="_blank">
-    	<img src="https://img.shields.io/badge/instagram-D300C5?&style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;" />
-    </a>
-    <a href="https://twitter.com/TintinMrLiu" target="_blank">
-    	<img src="https://img.shields.io/badge/twitter-000000?&style=for-the-badge&logo=x&logoColor=white" alt=twitter style="margin-bottom: 5px;" />
-    </a>
-    <a href="https://www.youtube.com/@丁丁-i2b" target="_blank">
-    	<img src="https://img.shields.io/badge/youtube-FF0033?&style=for-the-badge&logo=youtube&logoColor=white" alt=youtube style="margin-bottom: 5px;" />
-    </a>
-</div>  
+<a href="https://github.com/tintinly" target="_blank">
+    <img src="https://img.shields.io/badge/github-24292e?&style=for-the-badge&logo=github&logoColor=white" alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://space.bilibili.com/372204786" target="_blank">
+    <img src="https://img.shields.io/badge/bilibili-fe70a0?&style=for-the-badge&logo=bilibili&logoColor=white" alt=youtube style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/tintinliuye" target="_blank">
+    <img src="https://img.shields.io/badge/facebook-2889e7?&style=for-the-badge&logo=facebook&logoColor=white" alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/tintinliuye" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-D300C5?&style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/TintinMrLiu" target="_blank">
+    <img src="https://img.shields.io/badge/twitter-000000?&style=for-the-badge&logo=x&logoColor=white" alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.youtube.com/@丁丁-i2b" target="_blank">
+    <img src="https://img.shields.io/badge/youtube-FF0033?&style=for-the-badge&logo=youtube&logoColor=white" alt=youtube style="margin-bottom: 5px;" />
+</a>
+
 
 ### Github Stats  
 
