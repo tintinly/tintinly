@@ -1,18 +1,18 @@
 ## >_ Hi there, I'm tintinly 👋
 
 <div align="center">
-		<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=C747F7&center=true&vCenter=true&width=435&height=30&separator=%3C&lines=A+full-time+backend+developer.%3CSystem.out.println(Hello+World!);" alt="Typing SVG" /></a>
+	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&color=EC717F&center=true&vCenter=true&repeat=false&width=435&separator=%3C&lines=A+full-time+backend+developer%3CSystem.out.println(Hello+World!);%3C%E7%BA%B7%E7%B9%81%E4%B8%96%E7%95%8C%EF%BC%8C%E4%B8%BA%E5%86%85%E5%BF%83%E7%9A%84%E8%A1%A8%E8%BE%BE%E7%95%99%E4%B8%80%E6%89%87%E6%95%9E%E5%BC%80%E7%9A%84%E7%AA%97" alt="Typing SVG" />
 </div>
 
-#### About Me
+<p align="center">
+	<samp >
+	    <a href="https://tintinly.top/">主&nbsp&nbsp页</a></td><td> .
+	    <a href="https://blog.tintinly.top/">博&nbsp&nbsp客</a> .
+	    <a href="https://notes.tintinly.top/">笔&nbsp&nbsp记</a>
+	</samp>
+</p>
 
-纷繁世界，为内心的表达留一扇敞开的窗。
 
-<div>
-    <table>
-        <tbody><tr align="center"><td ><a href="https://tintinly.top/">主&nbsp&nbsp页</a></td><td><a href="https://blog.tintinly.top/">博&nbsp&nbsp客</a></td><td><a href="https://notes.tintinly.top/">笔&nbsp&nbsp记</a></td></tr></tbody>
-    </table>
-</div>
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWNibnJhaGI5Z3FhYzE4bHUwazc3cWpmbm0xM2o3d2p5cWxvdDQweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/p3jODc8SCg6H5VwSdJ/giphy.gif" width="260" align="right" alt="">
 
@@ -51,7 +51,7 @@
 
 <div>
     <a href="https://github.com/tintinly" target="_blank"><img src="https://img.shields.io/badge/github-24292e?&style=for-the-badge&logo=github&logoColor=white" alt=github style="margin: 2px"/></a>
-    <a href="https://space.bilibili.com/372204786" target="_blank"><img src="https://img.shields.io/badge/bilibili-fe70a0?&style=for-the-badge&logo=bilibili&logoColor=white" alt=youtube style="margin: 2px"/></a>
+    <a href="https://space.bilibili.com/406137704" target="_blank"><img src="https://img.shields.io/badge/bilibili-fe70a0?&style=for-the-badge&logo=bilibili&logoColor=white" alt=youtube style="margin: 2px"/></a>
     <!--<a href="https://www.facebook.com/tintinliuye" target="_blank"><img src="https://img.shields.io/badge/facebook-2889e7?&style=for-the-badge&logo=facebook&logoColor=white" alt=facebook style="margin: 4px"/></a>-->
     <!--<a href="https://instagram.com/tintinliuye" target="_blank"><img src="https://img.shields.io/badge/instagram-D300C5?&style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin: 4px"/></a>-->
     <a href="https://twitter.com/TintinMrLiu" target="_blank"> <img src="https://img.shields.io/badge/twitter-000000?&style=for-the-badge&logo=x&logoColor=white" alt=twitter style="margin: 2px"/></a>
@@ -65,5 +65,4 @@
 #### Recent Posts
 
 <!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
 <!-- BLOG-POST-LIST:END -->  
