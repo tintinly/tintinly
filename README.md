@@ -5,9 +5,9 @@
 </div>
 <p align="center">
 	<samp >
-	    <a href="https://tintinly.top/">主&nbsp&nbsp页</a> .
-	    <a href="https://blog.tintinly.top/">博&nbsp&nbsp客</a> .
-	    <a href="https://notes.tintinly.top/">笔&nbsp&nbsp记</a>
+	    <a href="https://tintinly.top/">主&nbsp;&nbsp;页</a> .
+	    <a href="https://blog.tintinly.top/">博&nbsp;&nbsp;客</a> .
+	    <a href="https://notes.tintinly.top/">笔&nbsp;&nbsp;记</a>
 	</samp>
 </p>
 
