@@ -12,39 +12,40 @@
 	</samp>
 </p>
 
-
-
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWNibnJhaGI5Z3FhYzE4bHUwazc3cWpmbm0xM2o3d2p5cWxvdDQweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/p3jODc8SCg6H5VwSdJ/giphy.gif" width="260" align="right" alt="">
 
 #### Frontend 
 
 <div align="left"> 
-<a href="https://www.w3schools.com/css/" target="_blank"><code><img width="32" alt="css" src="https://api.iconify.design/material-icon-theme/css.svg"></code></a>
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><code><img width="32" alt="html" src="https://api.iconify.design/material-icon-theme/html.svg"></code></a> 
-<a href="https://www.javascript.com/" target="_blank"><code><img width="32" alt="javascript" src="https://api.iconify.design/material-icon-theme/javascript.svg"></code></a> 
-<a href="https://www.typescriptlang.org/" target="_blank"><code><img width="32" alt="typescript" src="https://api.iconify.design/material-icon-theme/typescript.svg"></code></a> 
-<a href="https://www.tailwindcss.com/" target="_blank"><code><img width="32" alt="tailwindcss" src="https://api.iconify.design/material-icon-theme/tailwindcss.svg"></code></a> 
-<a href="https://nodejs.org/" target="_blank"><code><img width="32" alt="nodejs" src="https://api.iconify.design/material-icon-theme/nodejs.svg"></code></a> 
+<a href="https://www.w3schools.com/css/" target="_blank"><img alt="css" src="https://api.iconify.design/skill-icons/css.svg?height=36"></a>
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img alt="html" src="https://api.iconify.design/skill-icons/html.svg?height=36"></a> 
+<a href="https://www.javascript.com/" target="_blank"><img alt="javascript" src="https://api.iconify.design/skill-icons/javascript.svg?height=36"></a> 
+<a href="https://www.typescriptlang.org/" target="_blank"><img alt="typescript" src="https://api.iconify.design/skill-icons/typescript.svg?height=36"></a>
+<a href="https://nodejs.org/" target="_blank"><img alt="nodejs" src="https://api.iconify.design/skill-icons/nodejs-dark.svg?height=36"></a>
+<a href="https://vuejs.org/" target="_blank"><img alt="vue" src="https://api.iconify.design/skill-icons/vuejs-dark.svg?height=36"></a> 
+<a href="https://www.tailwindcss.com/" target="_blank"><img alt="tailwindcss" src="https://api.iconify.design/skill-icons/tailwindcss-dark.svg?height=36"></a>
 </div>
 
 #### Backend
 
 <div align="left">  
-<a href="https://www.java.com/" target="_blank"><code><img width="26" alt="java" src="https://api.iconify.design/logos/java.svg"></code></a> 
-<a href="https://spring.io/" target="_blank"><code><img width="26" alt="spring" src="https://api.iconify.design/devicon/spring.svg"></code></a> 
-<a href="https://vuejs.org/" target="_blank"><code><img width="32" alt="vue" src="https://api.iconify.design/material-icon-theme/vue.svg"></code></a> 
-<a href="https://www.mysql.com/" target="_blank"><code><img width="40" alt="mysql" src="https://api.iconify.design/logos/mysql.svg"></code></a> 
-<a href="https://redis.io/" target="_blank"><code><img width="32" alt="redis" src="https://api.iconify.design/logos/redis.svg"></code></a> 
-<a href="https://git-scm.com/" target="_blank"><code><img width="32" alt="git" src="https://api.iconify.design/material-icon-theme/git.svg"></code></a> 
+<a href="https://www.java.com/" target="_blank"><img alt="java" src="https://api.iconify.design/skill-icons/java-dark.svg?height=36"></a> 
+<a href="https://spring.io/" target="_blank"><img alt="spring" src="https://api.iconify.design/skill-icons/spring-dark.svg?height=36"></a> 
+<a href="https://www.mysql.com/" target="_blank"><img alt="mysql" src="https://api.iconify.design/skill-icons/mysql-dark.svg?height=36"></a> 
+<a href="https://redis.io/" target="_blank"><img alt="redis" src="https://api.iconify.design/skill-icons/redis-dark.svg?height=36"></a> 
+<a href="https://maven.apache.org/" target="_blank"><img alt="maven" src="https://api.iconify.design/skill-icons/maven-dark.svg?height=36"></a>
+<a href="https://www.elastic.co/cn/elasticsearch" target="_blank"><img alt="elasticsearch" src="https://api.iconify.design/skill-icons/elasticsearch-dark.svg?height=36"></a>  
 </div>
 
 #### DevOps 
 
 <div align="left"> 
-<a href="https://www.linux.org/" target="_blank"><code><img width="32" alt="linux" src="https://api.iconify.design/logos/linux-tux.svg"></code></a> 
-<a href="https://www.gnu.org/software/bash/" target="_blank"><code><img width="32" alt="Bash" src="https://api.iconify.design/devicon-plain/bash.svg"></code></a> 
-<a href="https://www.docker.com/" target="_blank"><code><img width="32" alt="docker" src="https://api.iconify.design/material-icon-theme/docker.svg"></code></a> 
-<a href="https://www.nginx.com/" target="_blank"><code><img width="32" alt="nginx" src="https://api.iconify.design/material-icon-theme/nginx.svg"></code></a> 
+<a href="https://www.linux.org/" target="_blank"><img alt="linux" src="https://api.iconify.design/skill-icons/linux-dark.svg?height=36"></a> 
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img alt="Bash" src="https://api.iconify.design/skill-icons/bash-dark.svg?height=36"></a> 
+<a href="https://www.docker.com/" target="_blank"><img alt="docker" src="https://api.iconify.design/skill-icons/docker.svg?height=36"></a> 
+<a href="https://www.nginx.com/" target="_blank"><img alt="nginx" src="https://api.iconify.design/skill-icons/nginx.svg?height=36"></a> 
+<a href="https://git-scm.com/" target="_blank"><img alt="git" src="https://api.iconify.design/skill-icons/git.svg?height=36"></a>
+<a href="https://www.jetbrains.com/zh-cn/idea/" target="_blank"><img alt="idea" src="https://api.iconify.design/skill-icons:idea-dark.svg?height=36"></a>
 </div>
 
 #### Connect with me
