@@ -37,6 +37,7 @@
 <a href="https://redis.io/" target="_blank"><code><img alt="redis" src="https://api.iconify.design/logos/redis.svg?height=32"></code></a> 
 <a href="https://maven.apache.org/" target="_blank"><code><img alt="apache" src="https://api.iconify.design/devicon/maven.svg?height=32"></code></a> 
 <a href="https://www.elastic.co/cn/elasticsearch" target="_blank"><code><img alt="elasticsearch" src="https://api.iconify.design/logos/elasticsearch.svg?height=32"></code></a> 
+<a href="https://www.rabbitmq.com/" target="_blank"><code><img alt="rabbitmq" src="https://api.iconify.design/devicon/rabbitmq.svg?height=32"></code></a> 
 </div>
 
 
