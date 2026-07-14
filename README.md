@@ -69,5 +69,10 @@
 
 #### Recent Posts
 
-<!-- BLOG-POST-LIST:START -->  
+<!-- BLOG-POST-LIST:START -->
+- [为什么原谅比憎恨更难](https://blog.tintinly.top/posts/examples/on-forgiveness)
+- [在竞技场的一天](https://blog.tintinly.top/posts/examples/day-in-the-arena)
+- [我为什么战斗](https://blog.tintinly.top/posts/examples/why-i-fight)
+- [父亲的信](https://blog.tintinly.top/posts/examples/fathers-letter)
+- [我最喜欢的 10 个电学双关语](https://blog.tintinly.top/posts/examples/electrical-puns)
 <!-- BLOG-POST-LIST:END -->  
