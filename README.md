@@ -70,9 +70,9 @@
 #### Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [为什么原谅比憎恨更难](https://blog.tintinly.top/posts/examples/on-forgiveness)
-- [在竞技场的一天](https://blog.tintinly.top/posts/examples/day-in-the-arena)
-- [我为什么战斗](https://blog.tintinly.top/posts/examples/why-i-fight)
-- [父亲的信](https://blog.tintinly.top/posts/examples/fathers-letter)
-- [我最喜欢的 10 个电学双关语](https://blog.tintinly.top/posts/examples/electrical-puns)
+- [飞牛系统 EXT4 簇大小与空间浪费问题](https://blog.tintinly.top/posts/fnos-ext4-cluster-space-issue)
+- [Markdown扩展示例](https://blog.tintinly.top/posts/markdown/markdown-extend)
+- [Markdown基本示例](https://blog.tintinly.top/posts/markdown/markdown-basic)
+- [Claude Code 接入 VS Code](https://blog.tintinly.top/posts/claude-code-access-vscode)
+- [Tabby-强大的开源终端安利](https://blog.tintinly.top/posts/tabby-terminal-recommend)
 <!-- BLOG-POST-LIST:END -->  
