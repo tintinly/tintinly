@@ -74,5 +74,5 @@
 - [Markdown扩展示例](https://blog.tintinly.top/posts/markdown/markdown-extend)
 - [Markdown基本示例](https://blog.tintinly.top/posts/markdown/markdown-basic)
 - [Claude Code 接入 VS Code](https://blog.tintinly.top/posts/claude-code-access-vscode)
-- [Tabby-强大的开源终端安利](https://blog.tintinly.top/posts/tabby-terminal-recommend)
+- [通过 Gihub Actions 实现博客撰写-部署-展示自动流程](https://blog.tintinly.top/posts/github-actions-blog-automation)
 <!-- BLOG-POST-LIST:END -->  
